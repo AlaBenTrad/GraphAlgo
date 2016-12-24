@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462141221 source:c:\users\khoula hantous\desktop\khaoula hantous & ala ben trad\projet graphe\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
